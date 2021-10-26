@@ -155,7 +155,7 @@ TS_var=np.ones(len(alpha)+1)
 sty=["k-","b--","m:","r-."]
 
 #reward dist: "G" for Gaussian, "B" for Bernoulli, "P" for Poisson
-reward_dist="G"
+reward_dist="B"
 
 #Gaussian noise std: works only for Gaussian distribution
 std=1
