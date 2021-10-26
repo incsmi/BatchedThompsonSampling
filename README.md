@@ -2,7 +2,7 @@
 
 This repository contains the source Python codes for the paper "Batched Thompson Sampling" by Cem Kalkanli and Ayfer Ozgur to appear in NeurIPS 2021. To reproduce the experimental results, follow the instructions below.
 
-Instructions to run the experiments:
+Instructions to run the experiments in Section 5:
 
 Executable file: Experiments.py
 
